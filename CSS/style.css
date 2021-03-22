@@ -6,7 +6,7 @@ body {
 }
 
 /* Showcase */
-h1 {
+.main-header {
   font-size: 25px;
   color: rgb(0, 0, 80);
 }
