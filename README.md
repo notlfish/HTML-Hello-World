@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HTML Hello World
 
 > Practice project for Git, GitHub and HTML best practices
 
