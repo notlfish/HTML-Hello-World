@@ -1,6 +1,6 @@
 /* Pre style */
 
-html, body {
+body {
     font-family: sans-serif;
     background-color: #f8faff;
 }
@@ -9,5 +9,4 @@ html, body {
 h1 {
   font-size: 25px;
   color: rgb(0, 0, 80);
-  margin-left: 50px:
-}
+};
